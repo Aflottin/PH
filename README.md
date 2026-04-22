@@ -1,2 +1,2 @@
-# PH
-Python training, meta-heuristic methods, geodata, pandas, xarray
+Genetic algorithm and optimization side project
+
